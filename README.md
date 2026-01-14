@@ -2,20 +2,17 @@
 
 💻 Full-Stack & Software Engineer  
 🐍 Strong in Python, SQL, and Backend Development  
-🚀 Passionate about building scalable, real-world web applications  
+🚀 Focused on building clean, scalable web applications  
 
 ---
 
 ## 🧠 About Me  
 
 I am a **Full-Stack and Software Engineer** with a strong foundation in  
-**Python programming, databases, and backend systems**.
+**Python programming, databases, and backend development**.
 
-I enjoy building **end-to-end web applications**, designing clean APIs,  
-and writing **maintainable, efficient code**.
-
-I also have working knowledge of **Machine Learning and Data Analytics**,  
-which helps me build **data-driven and intelligent features** when required.
+I enjoy building **end-to-end web applications**, designing structured backends,  
+and writing **clean, maintainable code**.
 
 ---
 
@@ -46,42 +43,38 @@ https://personal-portfolio-website-rmdu.vercel.app/assets/resume.pdf
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,php" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
   <!-- Tools & OS -->
-  <img src="https://skillicons.dev/icons?i=git,linux" />
-
-  <!-- Data / ML (Secondary) -->
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
 
 ## 🧩 Technical Skills  
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Python, Django, Flask, Node.js  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, Django, Flask  
 - **Databases:** MySQL, PostgreSQL  
 - **Software Concepts:**  
   - REST APIs  
   - MVC Architecture  
   - Database Design & ER Diagrams  
-- **Data (Secondary):** Pandas, NumPy, basic ML concepts  
-- **Tools:** Git, GitHub, Linux, Jupyter, Google Colab  
+- **Tools:** Git, GitHub, Linux, Jupyter Notebook  
 
 ---
 
 ## 📌 Current Focus  
 
-- Building **production-ready full-stack projects**
-- Writing **clean backend APIs**
-- Improving **DSA & problem-solving**
+- Building **strong backend & full-stack projects**
+- Improving **Python & SQL depth**
+- Strengthening **DSA and problem-solving**
 - Preparing for **high-placement software roles**
 
 ---
